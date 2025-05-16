@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Berry%20Angular%20-%20The%20Most%20Beautiful%20Bootstrap%20Designed%20Admin%20Dashboard%20Template%20&url=https://berrydashboard.io/angular/default&via=codedthemes&hashtags=angular,webdev,developers,typescript)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -173,3 +174,6 @@ Please generate a [Github issue](https://github.com/codedthemes/mantis-free-reac
 - [LinkedIn](https://www.linkedin.com/company/codedthemes/) 💼
 - [Instagram](https://www.instagram.com/codedthemes/) 📷
 - [Facebook](https://www.facebook.com/codedthemes) 🟦
+=======
+# instaapp
+>>>>>>> 7335897782f13312bb0a51e7aa5fa505e75b7278
