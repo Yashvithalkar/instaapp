@@ -5,7 +5,7 @@ import Loadable from 'components/Loadable';
 import DashboardLayout from 'layout/Dashboard';
 
 // render- Dashboard
-const DashboardDefault = Loadable(lazy(() => import('pages/dashboard/default')));
+// const DashboardDefault = Loadable(lazy(() => import('pages/dashboard/default')));
 
 // render - color
 const Color = Loadable(lazy(() => import('pages/component-overview/color')));
@@ -23,7 +23,7 @@ const MainRoutes = {
   children: [
     {
       path: '/',
-      element: <DashboardDefault />
+      // element: <DashboardDefault />
     },
     {
       path: 'dashboard',
